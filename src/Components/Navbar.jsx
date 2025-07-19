@@ -17,7 +17,7 @@ export default function Navbar() {
             <div className="absolute top-10 left-0 bg-white text-black rounded-md shadow-lg w-40 p-2 space-y-2 z-50">
               <a href="#" className="block hover:text-blue-600">Home</a>
               <a href="#" className="block hover:text-blue-600">Categories</a>
-              <a href="/contactus" className="block hover:text-blue-600">ContactUs</a>
+              <a href="/contactus" className="block hover:text-blue-600">Contact Us</a>
               <a href="#" className="block hover:text-blue-600">About Us</a>
             </div>
           )}
